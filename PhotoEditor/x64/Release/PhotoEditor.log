@@ -1,0 +1,22 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (GUI1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\alcin\source\repos\almond 2\PhotoEditor\PhotoEditor\MasterImageHeader.h(56,12): warning C4129: 'e': unrecognized character escape sequence
+C:\Users\alcin\source\repos\almond 2\PhotoEditor\PhotoEditor\MasterImageHeader.h(60,12): warning C4129: 'e': unrecognized character escape sequence
+C:\Users\alcin\source\repos\almond 2\PhotoEditor\PhotoEditor\MasterImageHeader.h(99,22): warning C4129: 'e': unrecognized character escape sequence
+C:\Users\alcin\source\repos\almond 2\PhotoEditor\PhotoEditor\MasterImageHeader.h(108,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alcin\source\repos\almond 2\PhotoEditor\PhotoEditor\MasterImageHeader.h(112,22): warning C4129: 'e': unrecognized character escape sequence
+C:\Users\alcin\source\repos\almond 2\PhotoEditor\PhotoEditor\MasterImageHeader.h(122,24): warning C4244: '*=': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\alcin\source\repos\almond 2\PhotoEditor\PhotoEditor\MasterImageHeader.h(123,26): warning C4244: '*=': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\alcin\source\repos\almond 2\PhotoEditor\PhotoEditor\MasterImageHeader.h(124,26): warning C4244: '*=': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\alcin\source\repos\almond 2\PhotoEditor\PhotoEditor\MasterImageHeader.h(193,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\alcin\source\repos\almond 2\PhotoEditor\PhotoEditor\MasterImageHeader.h(198,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\alcin\source\repos\almond 2\PhotoEditor\PhotoEditor\MasterImageHeader.h(203,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\alcin\source\repos\almond 2\PhotoEditor\PhotoEditor\MasterImageHeader.h(220,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\alcin\source\repos\almond 2\PhotoEditor\PhotoEditor\MasterImageHeader.h(220,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\alcin\source\repos\almond 2\PhotoEditor\PhotoEditor\MasterImageHeader.h(220,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  337 of 343 functions (98.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PhotoEditor.vcxproj -> C:\Users\alcin\source\repos\almond 2\PhotoEditor\x64\Release\PhotoEditor 2022.exe
